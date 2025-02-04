@@ -1,9 +1,29 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.32802.440
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Poc.NFSe", "Poc.NFSe\Poc.NFSe.csproj", "{BC484820-5E46-41BD-90D9-05F300010837}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NFSENacionalClient", "NFSe_Nacional_Client_Desktop\NFSENacionalClient\NFSENacionalClient.csproj", "{BE8BDD7E-EDD1-4770-A476-B38B20894598}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{A05B5922-143F-4E49-8A9E-598AF6A7F184}"
+	ProjectSection(SolutionItems) = preProject
+		Docs\AnexoA-Tabelas_ISO2Paises_MunIBGE_Rodovias-SNNFSe_V1.00.02-Produção.xlsx = Docs\AnexoA-Tabelas_ISO2Paises_MunIBGE_Rodovias-SNNFSe_V1.00.02-Produção.xlsx
+		Docs\AnexoB-ListasServNac_NBS-SNNFSe_V1.00.02-Produção.xlsx = Docs\AnexoB-ListasServNac_NBS-SNNFSe_V1.00.02-Produção.xlsx
+		Docs\AnexoI-LeiautesRN_DPS_NFSe-SNNFSe_v1.00.02-Homologacao.xlsx = Docs\AnexoI-LeiautesRN_DPS_NFSe-SNNFSe_v1.00.02-Homologacao.xlsx
+		Docs\Manual Portal Municipal NFs-e v11.pdf = Docs\Manual Portal Municipal NFs-e v11.pdf
+		Docs\ManualIntegradoSNNFSe_V1.00.02-Produção.pdf = Docs\ManualIntegradoSNNFSe_V1.00.02-Produção.pdf
+		Docs\Nota Técnica 001 - SE-CGNFSe - Novo Layout - RTC.pdf = Docs\Nota Técnica 001 - SE-CGNFSe - Novo Layout - RTC.pdf
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Anexo I Leiautes RN DPS NFSe-SNNFSe v1.00.02 - PDF", "Anexo I Leiautes RN DPS NFSe-SNNFSe v1.00.02 - PDF", "{7D3B7DD6-E3E7-4254-84DC-0F722FA616FD}"
+	ProjectSection(SolutionItems) = preProject
+		Docs\Anexo I Leiautes RN DPS NFSe-SNNFSe v1.00.02 - PDF\LEIAUTE DPS.pdf = Docs\Anexo I Leiautes RN DPS NFSe-SNNFSe v1.00.02 - PDF\LEIAUTE DPS.pdf
+		Docs\Anexo I Leiautes RN DPS NFSe-SNNFSe v1.00.02 - PDF\LEIAUTE NFS-e.pdf = Docs\Anexo I Leiautes RN DPS NFSe-SNNFSe v1.00.02 - PDF\LEIAUTE NFS-e.pdf
+		Docs\Anexo I Leiautes RN DPS NFSe-SNNFSe v1.00.02 - PDF\RN DPS.pdf = Docs\Anexo I Leiautes RN DPS NFSe-SNNFSe v1.00.02 - PDF\RN DPS.pdf
+		Docs\Anexo I Leiautes RN DPS NFSe-SNNFSe v1.00.02 - PDF\RN MUN.INCID INFO.SERV..pdf = Docs\Anexo I Leiautes RN DPS NFSe-SNNFSe v1.00.02 - PDF\RN MUN.INCID INFO.SERV..pdf
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,9 +35,16 @@ Global
 		{BC484820-5E46-41BD-90D9-05F300010837}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC484820-5E46-41BD-90D9-05F300010837}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC484820-5E46-41BD-90D9-05F300010837}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE8BDD7E-EDD1-4770-A476-B38B20894598}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE8BDD7E-EDD1-4770-A476-B38B20894598}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE8BDD7E-EDD1-4770-A476-B38B20894598}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE8BDD7E-EDD1-4770-A476-B38B20894598}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7D3B7DD6-E3E7-4254-84DC-0F722FA616FD} = {A05B5922-143F-4E49-8A9E-598AF6A7F184}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B325AC71-89BC-4B4B-8EB3-E5A5A2B43393}
