@@ -18,12 +18,18 @@ https://www.producaorestrita.nfse.gov.br/EmissorNacional/
 
 ## 📃 Documentação
 
-- [Manual Integrado V1.00.02 - Homologação](https://www.gov.br/nfse/pt-br/eventos_NFS-e/evento-tecnico-setembro-de-2022/manualintegradosnnfse_v1-00-02-homologacao.pdf)
-- [Planilha com layout/RNG da NFS-e V1.00.02 - Homologação](https://www.gov.br/nfse/pt-br/eventos_NFS-e/evento-tecnico-setembro-de-2022/anexoi-leiautesrn_dps_nfse-snnfse_v1-00-02-homologacao.xlsx)
-- [Planilha com layout/RNG dos Eventos V1.00.02 - Homologação](https://www.gov.br/nfse/pt-br/eventos_NFS-e/evento-tecnico-setembro-de-2022/anexoii-leiautesrn_eventos-snnfse_v1-00-02-homologacao.xlsx)
-- [Pacote de esquemas XSD V1.00.02 - Homologação](https://www.gov.br/nfse/pt-br/eventos_NFS-e/evento-tecnico-setembro-de-2022/xsd_pl_nfse_1-00-homologacao.zip)
-- [Planilha com Países e Municípios V1.00.02 - Homologação](https://www.gov.br/nfse/pt-br/eventos_NFS-e/evento-tecnico-setembro-de-2022/anexoa-tabelas_iso2paises_munibge_rodovias-snnfse_v1-00-02-homologacao.xlsx)
-- [Planilha com Lista de Serviços V1.00.02 - Homologação](https://www.gov.br/nfse/pt-br/eventos_NFS-e/evento-tecnico-setembro-de-2022/anexob-listasservnac_nbs-snnfse_v1-00-02-homologacao.xlsx)
+- [Manual Integrado V1.00.02](https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/manualintegradosnnfse_v1-00-02-producao.pdf/view)
+
+- Planilha com layout/RNG da NFS-e V1.00.02 - PDF
+
+  - [LEIAUTE DPS.pdf](https://github.com/silvairsoares/poc-nfse-nacional/blob/main/Docs/ManualIntegradoSNNFSe_V1.00.02-Produ%C3%A7%C3%A3o.pdf)
+  - [LEIAUTE NFS-e.pdf](https://github.com/silvairsoares/poc-nfse-nacional/blob/main/Docs/Anexo%20I%20Leiautes%20RN%20DPS%20NFSe-SNNFSe%20v1.00.02%20-%20PDF/LEIAUTE%20NFS-e.pdf)
+  - [RN DPS.pdf](https://github.com/silvairsoares/poc-nfse-nacional/blob/main/Docs/Anexo%20I%20Leiautes%20RN%20DPS%20NFSe-SNNFSe%20v1.00.02%20-%20PDF/RN%20DPS.pdf)
+  - [RN MUN.INCID INFO.SERV..pdf](https://github.com/silvairsoares/poc-nfse-nacional/blob/main/Docs/Anexo%20I%20Leiautes%20RN%20DPS%20NFSe-SNNFSe%20v1.00.02%20-%20PDF/RN%20MUN.INCID%20INFO.SERV..pdf)
+
+- [Pacote de esquemas XSD V1.00.02 - Homologação](https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/xsd_pl_nfse_1-00-producao.zip/view)
+- [Planilha com Países e Municípios V1.00.02 - Homologação](https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/anexoa-tabelas_iso2paises_munibge_rodovias-snnfse_v1-00-02-producao.xlsx/view)
+- [Planilha com Lista de Serviços V1.00.02 - Homologação](https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica/anexob-listasservnac_nbs-snnfse_v1-00-02-producao.xlsx/view)
 
 ## 🗣️ Fórum
 [Redmine SERPRO](https://redmine.serpro.gov.br/)
